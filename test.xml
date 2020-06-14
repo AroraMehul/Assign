@@ -1,7 +1,13 @@
 <?xml version="1.0"?>
-<Loan>
-   <id>3</id>
-   <work>15</work>
-   <debt>yes</debt>
-</Loan>
-
+<Company>
+    <Loan>
+       <id>4</id>
+       <work>15</work>
+       <debt>yes</debt>
+    </Loan>
+    <Loan>
+       <id>5</id>
+       <work>15</work>
+       <debt>yes</debt>
+    </Loan>
+</Company>
