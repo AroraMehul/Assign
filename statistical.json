@@ -1,0 +1,33 @@
+{
+  "1": {
+    "Type": "LinReg",
+    "values": {
+      "Age": "67",
+      "Sex": "male",
+      "Job": "2",
+      "Housing": "own",
+      "Saving_accounts": "null",
+      "Checking_account": "little",
+      "Credit_amount": "1169",
+      "Duration": "6",
+      "Purpose": "radio\\TV",
+      "Risk": "good"
+    },
+    "color": {
+      "45-65": "red",
+      "65-85": "amber",
+      "85-100": "green"
+    }
+  },
+  "2": {
+    "Type": "VaR",
+    "values": {
+      "link": "https://raw.githubusercontent.com/humbletechy/Assign/master/var.json"
+    },
+    "color": {
+      "0-2": "red",
+      "2-4": "amber",
+      "4-8": "green"
+    }
+  }
+}
