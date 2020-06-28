@@ -28,5 +28,43 @@
       "2-4": "amber",
       "4-8": "green"
     }
+  },
+  "3": {
+    "Type": "PolyReg",
+    "values": {
+      "Age": "22",
+      "Sex": "female",
+      "Job": "2",
+      "Housing": "own",
+      "Saving_accounts": "little",
+      "Checking_account": "moderate",
+      "Credit_amount": "5951",
+      "Duration": "48",
+      "Purpose": "radio\\TV"
+    },
+    "color": {
+      "45-65": "red",
+      "65-85": "amber",
+      "85-100": "green"
+    }
+  }, 
+  "4": {
+    "Type": "MANOVA",
+    "values": {
+      "Age": "67",
+      "Sex": "male",
+      "Job": "2",
+      "Housing": "own",
+      "Saving_accounts": "null",
+      "Checking_account": "little",
+      "Credit_amount": "1169",
+      "Duration": "6",
+      "Purpose": "radio\\TV"
+    },
+    "color": {
+      "0.2-0.4": "red",
+      "0.4-0.6": "amber",
+      "0.6-1.0": "green"
+    }
   }
 }
